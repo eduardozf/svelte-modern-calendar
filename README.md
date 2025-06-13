@@ -5,7 +5,7 @@ A modern, responsive, and accessible calendar component for Svelte applications.
 > [!WARNING]
 > This project is in its early alpha stage. The API is subject to change.
 
-![Alpha Day View](./docs/assets/alpha_day_view.png)
+![Alpha Day View](https://raw.githubusercontent.com/eduardozf/svelte-modern-calendar/main/docs/assets/alpha_day_view.png)
 
 ## Features
 
